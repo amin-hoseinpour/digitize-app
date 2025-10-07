@@ -8,7 +8,8 @@ below image show the single product page
 <br>
 below image show the catagory page 
 <br>
-<img width="623" height="426" alt="image" src="https://github.com/user-attachments/assets/46ca7d08-fe92-4540-89f5-11d8e686dab2" />
+<img width="633" height="380" alt="image" src="https://github.com/user-attachments/assets/c24796b5-a66a-40d9-ab5d-e84760bdb4cd" />
+
 
 <br>
 below image show the cart page for this shop

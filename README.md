@@ -12,7 +12,7 @@ below image show the catagory page
 
 
 <br>
-below image show the cart page for this shop
+below image show the cart page for this shop in multiple states
 <br>
 <img width="623" height="426" alt="image" src="https://github.com/user-attachments/assets/b2abdbac-0a01-4edf-92de-11b8c0b7545a" />
 <br>
